@@ -112,7 +112,7 @@ Abra um novo `CMD`, acesse o diretório dos códigos e ative o ambiente virtual 
 
 
 ```
-.\env_deploy\Scripts\activate.\
+.\env_deploy\Scripts\activate
 ```
 
 
